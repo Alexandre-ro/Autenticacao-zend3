@@ -16,8 +16,8 @@ return [
         'driver'   => 'Pdo_Pgsql',
         'host'     => 'localhost',
         'database' => 'auth',
-        'username' => 'postgres',
-        'password' => 'private',
+        'username' => '',
+        'password' => '',
         'port'     => '5432'
     ]
 ];
